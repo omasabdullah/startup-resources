@@ -12,27 +12,27 @@ A list of tools for startups and other businesses.
 - [Merchandise](#merchandise)
   - [Printing](#printing)
 
-# Analytics
+#### Analytics
 * [Google Analytics](https://www.google.ca/analytics/)
 * [Fabric](https://fabric.io/)
 
-# Hosting
+#### Hosting
 * [Firebase](https://firebase.google.com/)
 * [Heroku](https://www.heroku.com/)
 
-# Software Development Management
+#### Software Development Management
 * [Clubhouse](https://clubhouse.io/)
 * [Jira](https://www.atlassian.com/software/jira)
 * [Phacility](https://www.phacility.com/)
 * [Zenhub](https://www.zenhub.com/)
 * [Zube](https://zube.io/)
 
-# Project Management
+#### Project Management
 * [Asana](https://asana.com/)
 * [Glip](https://glip.com/)
 * [Trello](https://trello.com/)
 
-# Messaging
+#### Messaging
 * [Chatwork](http://www.chatwork.com/)
 * [Flowdock](https://www.flowdock.com/)
 * [Grape](https://chatgrape.com/)
@@ -40,16 +40,16 @@ A list of tools for startups and other businesses.
 * [Mattermost](https://www.mattermost.org/)
 * [Slack](https://slack.com/)
 
-# Mobile Tools
+#### Mobile Tools
 * [Apptimizely](http://apptimize.com/)
 * [Optimizely](https://www.optimizely.com/)
 
-# HR Software
+#### HR Software
 * [Kin HR](https://kinhr.com/)
 
-# Merchandise
+#### Merchandise
 
-## Printing
+##### Printing
 * [DNA Screen Printing](http://www.dnascreening.com/)
 * [iPrint](http://www.iprint.com/estore/)
 * [Civilian Printing](http://civilianprinting.com/)
