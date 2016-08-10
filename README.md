@@ -33,11 +33,11 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [iPrint](http://www.iprint.com/estore/)
 
 ### Messaging
-* [Chatwork](http://www.chatwork.com/)
-* [Flowdock](https://www.flowdock.com/)
+* [Chatwork](http://www.chatwork.com/):money_with_wings:
+* [Flowdock](https://www.flowdock.com/):money_with_wings:
 * [Grape](https://chatgrape.com/)
-* [Hip Chat](https://www.hipchat.com/)
-* [Mattermost](https://www.mattermost.org/)
+* [Hip Chat](https://www.hipchat.com/):money_with_wings:
+* [Mattermost](https://www.mattermost.org/):money_with_wings:
 * [Slack](https://slack.com/):money_with_wings:
 
 ## Business Tools
