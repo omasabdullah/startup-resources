@@ -1,36 +1,34 @@
 #### About
-A list of tools for startups and other businesses.
+A list of tools for startups.
 
 ### Content
-- [Analytics](#analytics)
-- [Hosting](#hosting)
-- [Software Development Management](#software-development-management)
-- [Project Management](#project-management)
-- [Mobile Tools](#mobile-tools)
-- [HR Software](#hr-software)
-- [Messaging](#messaging)
-- [Merchandise](#merchandise)
-  - [Printing](#printing)
+- [Business Tools](#business-tools)
+  - [HR Software](#hr-software)
+  - [Project Management](#project-management)
+  - [Merchandise](#merchandise)
+    - [Printing](#printing)
+  - [Messaging](#messaging)
 
-#### Analytics
-* [Google Analytics](https://www.google.ca/analytics/)
-* [Fabric](https://fabric.io/)
-
-#### Hosting
-* [Firebase](https://firebase.google.com/)
-* [Heroku](https://www.heroku.com/)
-
-#### Software Development Management
-* [Clubhouse](https://clubhouse.io/)
-* [Jira](https://www.atlassian.com/software/jira)
-* [Phacility](https://www.phacility.com/)
-* [Zenhub](https://www.zenhub.com/)
-* [Zube](https://zube.io/)
+- [Development Tools](#development-tools)
+  - [Analytics](#analytics)
+  - [Hosting](#hosting)
+  - [Mobile Tools](#mobile-tools)
+  - [Software Development Management](#software-development-management)
+  
+### Business Tools
+#### HR Software
+* [Kin HR](https://kinhr.com/)
 
 #### Project Management
 * [Asana](https://asana.com/)
 * [Glip](https://glip.com/)
 * [Trello](https://trello.com/)
+
+#### Merchandise
+##### Printing
+* [Civilian Printing](http://civilianprinting.com/)
+* [DNA Screen Printing](http://www.dnascreening.com/)
+* [iPrint](http://www.iprint.com/estore/)
 
 #### Messaging
 * [Chatwork](http://www.chatwork.com/)
@@ -40,16 +38,25 @@ A list of tools for startups and other businesses.
 * [Mattermost](https://www.mattermost.org/)
 * [Slack](https://slack.com/)
 
+### Business Tools
+#### Analytics
+* [Google Analytics](https://www.google.ca/analytics/)
+* [Fabric](https://fabric.io/)
+
+#### Hosting
+* [Amazon Web Services](https://aws.amazon.com/)
+* [Azure](https://azure.microsoft.com/)
+* [Firebase](https://firebase.google.com/)
+* [Heroku](https://www.heroku.com/)
+
 #### Mobile Tools
 * [Apptimizely](http://apptimize.com/)
 * [Optimizely](https://www.optimizely.com/)
 
-#### HR Software
-* [Kin HR](https://kinhr.com/)
+#### Software Development Management
+* [Clubhouse](https://clubhouse.io/)
+* [Jira](https://www.atlassian.com/software/jira)
+* [Phacility](https://www.phacility.com/)
+* [Zenhub](https://www.zenhub.com/)
+* [Zube](https://zube.io/)
 
-#### Merchandise
-
-##### Printing
-* [DNA Screen Printing](http://www.dnascreening.com/)
-* [iPrint](http://www.iprint.com/estore/)
-* [Civilian Printing](http://civilianprinting.com/)
