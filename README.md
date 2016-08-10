@@ -23,6 +23,7 @@ A list of tools for startups.
 * [Asana](https://asana.com/)
 * [Glip](https://glip.com/)
 * [Trello](https://trello.com/)
+* [Quip](https://quip.com/)
 
 ### Marketing
 #### Printing
