@@ -1,6 +1,7 @@
 ### About
 A list of tools for startups. Refer below to what the icons indicate:
 - :money_with_wings: Free options
+- :purple_heart: Non-profit options
 
 ## Content
 - [Business Tools](#business-tools)
@@ -18,7 +19,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   
 ## Business Tools
 ### HR Software
-* [Kin HR](https://kinhr.com/)
+* [Kin HR](https://kinhr.com/):purple_heart:
 
 ### Project Management
 * [Asana](https://asana.com/):money_with_wings:
@@ -34,24 +35,24 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### Messaging
 * [Chatwork](http://www.chatwork.com/):money_with_wings:
-* [Flowdock](https://www.flowdock.com/):money_with_wings:
-* [Grape](https://chatgrape.com/)
+* [Flowdock](https://www.flowdock.com/):money_with_wings::purple_heart:
+* [Grape](https://chatgrape.com/):purple_heart:
 * [Hip Chat](https://www.hipchat.com/):money_with_wings:
 * [Mattermost](https://www.mattermost.org/):money_with_wings:
-* [Slack](https://slack.com/):money_with_wings:
+* [Slack](https://slack.com/):money_with_wings::purple_heart:
 
 ## Business Tools
 ### Analytics
-* [Google Analytics](https://www.google.ca/analytics/):money_with_wings:
+* [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
 * [Fabric](https://fabric.io/):money_with_wings:
 
 ### Hosting
-* [Amazon Web Services](https://aws.amazon.com/)
+* [Amazon Web Services](https://aws.amazon.com/):purple_heart:
 * [Azure](https://azure.microsoft.com/)
-* [Digital Ocean](https://www.digitalocean.com/)
+* [Digital Ocean](https://www.digitalocean.com/):purple_heart:
 * [Firebase](https://firebase.google.com/):money_with_wings:
 * [Github Pages](https://pages.github.com/):money_with_wings:
-* [Google](https://cloud.google.com/)
+* [Google](https://cloud.google.com/):purple_heart:
 * [Heroku](https://www.heroku.com/):money_with_wings:
 
 ### Mobile Tools
