@@ -47,6 +47,7 @@ A list of tools for startups.
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/)
 * [Firebase](https://firebase.google.com/)
+* [Google](https://cloud.google.com/)
 * [Heroku](https://www.heroku.com/)
 
 ### Mobile Tools
