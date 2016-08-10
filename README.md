@@ -1,11 +1,11 @@
-#### About
+### About
 A list of tools for startups.
 
-### Content
+## Content
 - [Business Tools](#business-tools)
   - [HR Software](#hr-software)
   - [Project Management](#project-management)
-  - [Merchandise](#merchandise)
+  - [Marketing](#marketing)
     - [Printing](#printing)
   - [Messaging](#messaging)
 
@@ -15,22 +15,22 @@ A list of tools for startups.
   - [Mobile Tools](#mobile-tools)
   - [Software Development Management](#software-development-management)
   
-### Business Tools
-#### HR Software
+## Business Tools
+### HR Software
 * [Kin HR](https://kinhr.com/)
 
-#### Project Management
+### Project Management
 * [Asana](https://asana.com/)
 * [Glip](https://glip.com/)
 * [Trello](https://trello.com/)
 
-#### Merchandise
-##### Printing
+### Marketing
+#### Printing
 * [Civilian Printing](http://civilianprinting.com/)
 * [DNA Screen Printing](http://www.dnascreening.com/)
 * [iPrint](http://www.iprint.com/estore/)
 
-#### Messaging
+### Messaging
 * [Chatwork](http://www.chatwork.com/)
 * [Flowdock](https://www.flowdock.com/)
 * [Grape](https://chatgrape.com/)
@@ -38,22 +38,22 @@ A list of tools for startups.
 * [Mattermost](https://www.mattermost.org/)
 * [Slack](https://slack.com/)
 
-### Business Tools
-#### Analytics
+## Business Tools
+### Analytics
 * [Google Analytics](https://www.google.ca/analytics/)
 * [Fabric](https://fabric.io/)
 
-#### Hosting
+### Hosting
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/)
 * [Firebase](https://firebase.google.com/)
 * [Heroku](https://www.heroku.com/)
 
-#### Mobile Tools
+### Mobile Tools
 * [Apptimizely](http://apptimize.com/)
 * [Optimizely](https://www.optimizely.com/)
 
-#### Software Development Management
+### Software Development Management
 * [Clubhouse](https://clubhouse.io/)
 * [Jira](https://www.atlassian.com/software/jira)
 * [Phacility](https://www.phacility.com/)
