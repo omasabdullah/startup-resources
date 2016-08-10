@@ -46,7 +46,9 @@ A list of tools for startups.
 ### Hosting
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/)
+* [Digital Ocean](https://www.digitalocean.com/)
 * [Firebase](https://firebase.google.com/)
+* [Github Pages](https://pages.github.com/)
 * [Google](https://cloud.google.com/)
 * [Heroku](https://www.heroku.com/)
 
