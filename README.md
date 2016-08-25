@@ -10,6 +10,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Project Management](#project-management)
   - [Marketing](#marketing)
     - [Printing](#printing)
+    - [Media](#media)
   - [Messaging](#messaging)
 
 - [Development Tools](#development-tools)
@@ -36,6 +37,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Civilian Printing](http://civilianprinting.com/)
 * [DNA Screen Printing](http://www.dnascreening.com/)
 * [iPrint](http://www.iprint.com/estore/)
+
+#### Media
+* [Oak and Rumble](http://oakandrumble.com/)
+* [Token Creative Services](https://tokencs.ca/)
 
 ### Messaging
 * [Chatwork](http://www.chatwork.com/):money_with_wings:
