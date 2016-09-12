@@ -18,6 +18,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Hosting](#hosting)
   - [Mobile Tools](#mobile-tools)
   - [Software Development Management](#software-development-management)
+  - [Payment](#payment)
   
 ## Business Tools
 ### Data Analysis
@@ -75,3 +76,6 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Zenhub](https://www.zenhub.com/):money_with_wings:
 * [Zube](https://zube.io/):money_with_wings:
 
+### Payment
+* [Braintree](https://www.braintreepayments.com/)
+* [Stripe](https://stripe.com/ca)
