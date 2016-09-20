@@ -47,7 +47,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Chatwork](http://www.chatwork.com/):money_with_wings:
 * [Flowdock](https://www.flowdock.com/):money_with_wings::purple_heart:
 * [Grape](https://chatgrape.com/):purple_heart:
+* [Hibox](https://www.hibox.co/):money_with_wings:
 * [Hip Chat](https://www.hipchat.com/):money_with_wings:
+* [IRCCloud](https://www.irccloud.com/):money_with_wings:
 * [Mattermost](https://www.mattermost.org/):money_with_wings:
 * [Slack](https://slack.com/):money_with_wings::purple_heart:
 
