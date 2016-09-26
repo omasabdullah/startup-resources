@@ -40,6 +40,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [iPrint](http://www.iprint.com/estore/)
 
 #### Media
+* [Grip Films](http://gripfilms.ca/)
 * [Oak and Rumble](http://oakandrumble.com/)
 * [Token Creative Services](https://tokencs.ca/)
 
