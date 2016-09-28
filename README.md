@@ -5,6 +5,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ## Content
 - [Business Tools](#business-tools)
+  - [Accounting](#accounting)
   - [Data Analysis](#data-analysis)
   - [HR Software](#hr-software)
   - [Project Management](#project-management)
@@ -21,6 +22,9 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Payment](#payment)
   
 ## Business Tools
+### Accounting
+* [FreshBooks](https://www.freshbooks.com/)
+
 ### Data Analysis
 * [Periscope Data](https://www.periscopedata.com/)
 
