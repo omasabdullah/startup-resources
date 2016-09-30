@@ -27,7 +27,6 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### Data Analysis
 * [Elastic](https://www.elastic.co/):money_with_wings:
-* [Periscope Data](https://www.periscopedata.com/)
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 
 ### HR Software
