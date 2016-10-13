@@ -76,6 +76,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ### Mobile Tools
 * [Apptimizely](http://apptimize.com/):money_with_wings:
 * [Optimizely](https://www.optimizely.com/):money_with_wings:
+* [Taplytics](https://taplytics.com):money_with_wings:
 
 ### Software Development Management
 * [Clubhouse](https://clubhouse.io/):money_with_wings:
