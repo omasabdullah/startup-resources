@@ -16,6 +16,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 - [Development Tools](#development-tools)
   - [Analytics](#analytics)
+  - [Continuous Integration](#continuous-integration)
   - [Hosting](#hosting)
   - [Mobile Tools](#mobile-tools)
   - [Software Development Management](#software-development-management)
@@ -59,10 +60,15 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Mattermost](https://www.mattermost.org/):money_with_wings:
 * [Slack](https://slack.com/):money_with_wings::purple_heart:
 
-## Business Tools
+## Development Tools
 ### Analytics
 * [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
 * [Fabric](https://fabric.io/):money_with_wings:
+
+### Continuous Integration
+* [Jenkins](https://jenkins.io):money_with_wings:
+* [Team City](https://www.jetbrains.com/teamcity/):money_with_wings:
+* [Travis CI](https://travis-ci.org):money_with_wings:
 
 ### Hosting
 * [Amazon Web Services](https://aws.amazon.com/):purple_heart:
