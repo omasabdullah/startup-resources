@@ -25,6 +25,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ## Business Tools
 ### Accounting
 * [FreshBooks](https://www.freshbooks.com/)
+* [Wave](https://www.waveapps.com/)
 
 ### Data Analysis
 * [Elastic](https://www.elastic.co/):money_with_wings:
