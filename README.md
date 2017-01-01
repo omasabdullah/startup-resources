@@ -38,6 +38,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ### Project Management
 * [Asana](https://asana.com/):money_with_wings:
 * [Glip](https://glip.com/):money_with_wings:
+* [Shift](https://tryshift.com/):money_with_wings:
 * [Trello](https://trello.com/):money_with_wings:
 * [Quip](https://quip.com/)
 
