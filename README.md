@@ -17,6 +17,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 - [Development Tools](#development-tools)
   - [Analytics](#analytics)
   - [Continuous Integration](#continuous-integration)
+  - [Design](#design)
   - [Hosting](#hosting)
   - [Mobile Tools](#mobile-tools)
   - [Software Development Management](#software-development-management)
@@ -72,6 +73,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Jenkins](https://jenkins.io):money_with_wings:
 * [Team City](https://www.jetbrains.com/teamcity/):money_with_wings:
 * [Travis CI](https://travis-ci.org):money_with_wings:
+
+### Design
+* [Sketch](https://www.sketchapp.com/)
+* [PaintCode](https://www.paintcodeapp.com/)
 
 ### Hosting
 * [Amazon Web Services](https://aws.amazon.com/):purple_heart:
