@@ -27,6 +27,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ## Business Tools
 ### Accounting
 * [FreshBooks](https://www.freshbooks.com/)
+* [Quickbooks](https://quickbooks.intuit.ca/)
 * [Wave](https://www.waveapps.com/)
 
 ### Data Analysis
