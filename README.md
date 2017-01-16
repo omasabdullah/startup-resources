@@ -13,6 +13,7 @@ A list of tools for startups. Refer below to what the icons indicate:
     - [Printing](#printing)
     - [Media](#media)
   - [Messaging](#messaging)
+  - [Payroll](#payroll)
 
 - [Development Tools](#development-tools)
   - [Analytics](#analytics)
@@ -66,6 +67,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [IRCCloud](https://www.irccloud.com/):money_with_wings:
 * [Mattermost](https://www.mattermost.org/):money_with_wings:
 * [Slack](https://slack.com/):money_with_wings::purple_heart:
+
+### Payroll
+* [Gusto](https://gusto.com)
 
 ## Development Tools
 ### Analytics
