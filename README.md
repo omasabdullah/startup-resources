@@ -29,7 +29,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ### Accounting
 * [FreshBooks](https://www.freshbooks.com/)
 * [Quickbooks](https://quickbooks.intuit.ca/)
-* [Wave](https://www.waveapps.com/)
+* [Wave Accounting](https://www.waveapps.com/accounting/)
 
 ### Data Analysis
 * [Elastic](https://www.elastic.co/):money_with_wings:
@@ -70,6 +70,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### Payroll
 * [Gusto](https://gusto.com)
+* [Wave Payroll](https://www.waveapps.com/payroll/)
 
 ## Development Tools
 ### Analytics
