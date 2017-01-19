@@ -6,7 +6,6 @@ A list of tools for startups. Refer below to what the icons indicate:
 ## Content
 - [Business Tools](#business-tools)
   - [Accounting](#accounting)
-  - [Data Analysis](#data-analysis)
   - [HR Software](#hr-software)
   - [Project Management](#project-management)
   - [Marketing](#marketing)
@@ -30,10 +29,6 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [FreshBooks](https://www.freshbooks.com/)
 * [Quickbooks](https://quickbooks.intuit.ca/)
 * [Wave Accounting](https://www.waveapps.com/accounting/)
-
-### Data Analysis
-* [Elastic](https://www.elastic.co/):money_with_wings:
-* [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 
 ### HR Software
 * [Kin HR](https://kinhr.com/):purple_heart:
@@ -74,8 +69,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ## Development Tools
 ### Analytics
-* [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
+* [Elastic](https://www.elastic.co/):money_with_wings:
 * [Fabric](https://fabric.io/):money_with_wings:
+* [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
+* [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 
 ### Continuous Integration
 * [Jenkins](https://jenkins.io):money_with_wings:
