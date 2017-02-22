@@ -55,7 +55,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Token Creative Services](https://tokencs.ca/)
 
 #### Sales Pipeline
-* [Drift](https://www.drift.com/)
+* [Drift](https://www.drift.com/):money_with_wings:
 * [Intercom](https://www.intercom.com/)
 
 ### Messaging
