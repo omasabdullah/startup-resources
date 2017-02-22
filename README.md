@@ -11,6 +11,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Marketing](#marketing)
     - [Printing](#printing)
     - [Media](#media)
+    - [Sales Pipeline](#sales-pipeline)
   - [Messaging](#messaging)
   - [Payroll](#payroll)
 
@@ -52,6 +53,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Grip Films](http://gripfilms.ca/)
 * [Oak and Rumble](http://oakandrumble.com/)
 * [Token Creative Services](https://tokencs.ca/)
+
+#### Sales Pipeline
+* [Drift](https://www.drift.com/)
+* [Intercom](https://www.intercom.com/)
 
 ### Messaging
 * [Chatwork](http://www.chatwork.com/):money_with_wings:
