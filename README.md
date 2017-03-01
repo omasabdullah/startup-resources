@@ -77,6 +77,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Elastic](https://www.elastic.co/):money_with_wings:
 * [Fabric](https://fabric.io/):money_with_wings:
 * [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
+* [Heap Analytics](https://heapanalytics.com/):money_with_wings:
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 
 ### Continuous Integration
