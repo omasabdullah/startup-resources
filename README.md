@@ -46,6 +46,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Civilian Printing](http://civilianprinting.com/)
 * [DNA Screen Printing](http://www.dnascreening.com/)
 * [iPrint](http://www.iprint.com/estore/)
+* [Traces](http://traces.com/)
 
 #### Media
 * [Arc Media](http://arc-media.ca/)
