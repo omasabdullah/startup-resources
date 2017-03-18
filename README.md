@@ -33,6 +33,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### HR Software
 * [Kin HR](https://kinhr.com/):purple_heart:
+* [Hiretual](https://hiretual.com/):money_with_wings:
 
 ### Project Management
 * [Asana](https://asana.com/):money_with_wings:
@@ -81,6 +82,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Fabric](https://fabric.io/):money_with_wings:
 * [Google Analytics](https://www.google.ca/analytics/):money_with_wings::purple_heart:
 * [Heap Analytics](https://heapanalytics.com/):money_with_wings:
+* [PIWIK](https://piwik.org/):money_with_wings:
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 
 ### Continuous Integration
