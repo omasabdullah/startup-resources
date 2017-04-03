@@ -7,6 +7,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 - [Business Tools](#business-tools)
   - [Accounting](#accounting)
   - [HR Software](#hr-software)
+  - [Insurance](#insurance)
   - [Project Management](#project-management)
   - [Marketing](#marketing)
     - [Printing](#printing)
@@ -35,6 +36,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 ### HR Software
 * [Kin HR](https://kinhr.com/):purple_heart:
 * [Hiretual](https://hiretual.com/):money_with_wings:
+
+### Insurance
+* [Cowen TechLife](https://www.cowangroup.ca/industry-segments/cowan-programs/techlife)
 
 ### Project Management
 * [Asana](https://asana.com/):money_with_wings:
