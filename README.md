@@ -6,6 +6,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ## Content
 - [Business Tools](#business-tools)
   - [Accounting](#accounting)
+  - [Cap Table](#cap-table)
   - [HR Software](#hr-software)
   - [Insurance](#insurance)
   - [Project Management](#project-management)
@@ -33,6 +34,8 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Quickbooks](https://quickbooks.intuit.ca/)
 * [Wave Accounting](https://www.waveapps.com/accounting/)
 
+### Cap Table
+* [Captable](https://captable.io/)
 ### HR Software
 * [Kin HR](https://kinhr.com/):purple_heart:
 * [Hiretual](https://hiretual.com/):money_with_wings:
