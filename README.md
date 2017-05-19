@@ -37,7 +37,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### Cap Table
 * [Captable](https://captable.io/)
+
 ### HR Software
+* [CollageHR](https://www.collage.co/):money_with_wings:
+* [Humi HR](https://www.humi.ca/):money_with_wings:
 * [Kin HR](https://kinhr.com/):purple_heart:
 * [Hiretual](https://hiretual.com/):money_with_wings:
 
@@ -50,6 +53,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Shift](https://tryshift.com/):money_with_wings:
 * [Trello](https://trello.com/):money_with_wings:
 * [Quip](https://quip.com/)
+* [Waffle](https://waffle.io/):money_with_wings:
 
 ### Marketing
 #### Printing
