@@ -19,6 +19,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 - [Development Tools](#development-tools)
   - [Analytics](#analytics)
+  - [Continuous Delivery](#fastlane)
   - [Continuous Integration](#continuous-integration)
   - [Design](#design)
   - [Hosting](#hosting)
@@ -92,6 +93,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Heap Analytics](https://heapanalytics.com/):money_with_wings:
 * [PIWIK](https://piwik.org/):money_with_wings:
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
+
+### Continuous Delivery
+* [Fastlane](https://fastlane.tools/)
 
 ### Continuous Integration
 * [Jenkins](https://jenkins.io):money_with_wings:
