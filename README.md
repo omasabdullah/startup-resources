@@ -7,6 +7,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 - [Business Tools](#business-tools)
   - [Accounting](#accounting)
   - [Cap Table](#cap-table)
+  - [Fax](#fax)
   - [HR Software](#hr-software)
   - [Insurance](#insurance)
   - [Project Management](#project-management)
@@ -37,6 +38,10 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 ### Cap Table
 * [Captable](https://captable.io/)
+
+### Fax
+* [Hellofax](https://www.hellofax.com/):money_with_wings:
+* [Twilio](https://www.twilio.com/fax):money_with_wings:
 
 ### HR Software
 * [CollageHR](https://www.collage.co/):money_with_wings:
