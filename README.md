@@ -48,6 +48,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Humi HR](https://www.humi.ca/):money_with_wings:
 * [Kin HR](https://kinhr.com/):purple_heart:
 * [Hiretual](https://hiretual.com/):money_with_wings:
+* [Zenefits](https://www.zenefits.com/):money_with_wings:
 
 ### Insurance
 * [Cowen TechLife](https://www.cowangroup.ca/industry-segments/cowan-programs/techlife)
