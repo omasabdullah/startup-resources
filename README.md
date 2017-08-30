@@ -34,6 +34,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 ### Accounting
 * [FreshBooks](https://www.freshbooks.com/)
 * [Quickbooks](https://quickbooks.intuit.ca/)
+* [Simpletax](https://simpletax.ca/)
 * [Wave Accounting](https://www.waveapps.com/accounting/)
 
 ### Cap Table
