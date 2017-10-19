@@ -9,6 +9,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Cap Table](#cap-table)
   - [Fax](#fax)
   - [HR Software](#hr-software)
+  - [Incorporating](#incorporating)
   - [Insurance](#insurance)
   - [Project Management](#project-management)
   - [Marketing](#marketing)
@@ -50,6 +51,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Kin HR](https://kinhr.com/):purple_heart:
 * [Hiretual](https://hiretual.com/):money_with_wings:
 * [Zenefits](https://www.zenefits.com/):money_with_wings:
+
+### Incorporating
+* [Founded](https://www.founded.co/)
 
 ### Insurance
 * [Cowen TechLife](https://www.cowangroup.ca/industry-segments/cowan-programs/techlife)
