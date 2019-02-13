@@ -64,6 +64,8 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Glip](https://glip.com/):money_with_wings:
 * [Shift](https://tryshift.com/):money_with_wings:
 * [Trello](https://trello.com/):money_with_wings:
+* [Microsoft Project] (https://products.office.com/en-ca/project/project-and-portfolio-management-software?tab=tabs-1)
+* [Smarsheet] (https://www.smartsheet.com/)
 * [Quip](https://quip.com/)
 * [Waffle](https://waffle.io/):money_with_wings:
 
@@ -112,6 +114,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [Heap Analytics](https://heapanalytics.com/):money_with_wings:
 * [PIWIK](https://piwik.org/):money_with_wings:
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
+* [Clicky](https://clicky.com/)
 
 ### Continuous Delivery
 * [Fastlane](https://fastlane.tools/)
