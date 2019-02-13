@@ -14,6 +14,7 @@ A list of tools for startups. Refer below to what the icons indicate:
   - [Project Management](#project-management)
   - [Marketing](#marketing)
     - [Printing](#printing)
+    - [Swag](#swag)
     - [Media](#media)
     - [Sales Pipeline](#sales-pipeline)
   - [Messaging](#messaging)
@@ -73,6 +74,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [iPrint](http://www.iprint.com/estore/)
 * [R&S Screening](http://rsscreeninginc.com/)
 * [Traces](http://traces.com/):purple_heart:
+
+#### Swag
+* [Wilson & Wilson](http://wilson-wilson.ca)
 
 #### Media
 * [Arc Media](http://arc-media.ca/)
