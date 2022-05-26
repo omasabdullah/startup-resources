@@ -22,6 +22,7 @@ A list of tools for startups. Refer below to what the icons indicate:
 
 - [Development Tools](#development-tools)
   - [Analytics](#analytics)
+  - [Authentication](#authentication)
   - [Continuous Delivery](#fastlane)
   - [Continuous Integration](#continuous-integration)
   - [Design](#design)
@@ -115,6 +116,9 @@ A list of tools for startups. Refer below to what the icons indicate:
 * [PIWIK](https://piwik.org/):money_with_wings:
 * [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/us-en/)
 * [Clicky](https://clicky.com/)
+
+### Authentication
+* [MojoAuth](https://mojoauth.com/)
 
 ### Continuous Delivery
 * [Fastlane](https://fastlane.tools/)
